@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
  <p align='center'>
  <a href="https://www.linkedin.com/in/swarnendu-mukherjee-3188b4175/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mukherjeeswarnendu666@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:swmukher@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
