@@ -1,5 +1,4 @@
-### Hi there I am Swarnendu,I am a self-motivated software developer, graduated from National Institute of Technology, Durgapur and currently working as a software project engineer at Wipro Limited. I am a technology enthusiast with a high skill of experience working on multiple projects, Skilled in C,C++, Node js, Python, Pl-SQL, willing to contribute to all aspect of product development with an inclination towards backend development.
-
+### Hi there I am Swarnendu 👋
 <!--
 **Swarnendu-1999/Swarnendu-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
